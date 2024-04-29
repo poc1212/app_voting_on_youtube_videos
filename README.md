@@ -57,7 +57,7 @@ The app was developed using ReactJS, NodeJS, MariaDB Database technologies
 - cd app
 - npm run dev
 
-# Autor
+# Author
 Patrick Corrêa
 
 # Linkedin
