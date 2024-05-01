@@ -26,7 +26,8 @@ The app was developed using ReactJS, NodeJS, MariaDB Database technologies
 
 # Technologies Used
 ## Back end
-- NodeJS
+- NodeJS (version 20.11.1)
+- Express
 - Sequelize
 - Sequelize-cli
 - Mysql2
@@ -38,6 +39,7 @@ The app was developed using ReactJS, NodeJS, MariaDB Database technologies
 ## Front end
 - HTML / CSS / JS 
 - ReactJS
+- ViteJS
 - React-router-dom
 - Axios
 - React-cookie
@@ -56,6 +58,10 @@ The app was developed using ReactJS, NodeJS, MariaDB Database technologies
 - npm install
 - cd app
 - npm run dev
+
+## Dashboard Access Credentials
+- E-mail: exemplo1@email.com
+- Password: 12345
 
 # Author
 Patrick Corrêa
